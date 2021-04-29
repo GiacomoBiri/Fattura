@@ -1,6 +1,6 @@
 img#logo{
-    width: 120px;
-    height: 120px;
+    width: 100px;
+    height: 100px;
 }
 
 table {
@@ -15,9 +15,9 @@ table#tabella, td#tabella, th#tabella {
 }
 
 th {
-    background-color: rgb(177, 175, 175);
+    background-color: rgb(175, 175, 175);
 }
 
 div#bg{
-    background-color: rgb(177, 175, 175);
+    background-color: rgb(175, 175, 175);
 }
